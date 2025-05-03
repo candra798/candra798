@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Bagas Candra](img/github-header-image.png)
 <!--
 **candra798/candra798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
