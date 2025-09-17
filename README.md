@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo Semua 👋
 
 <!--## 📊 GitHub Stats
 ![Bagas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=candra798&show_icons=true&theme=radical)
