@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 ![Bagas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=candra798&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=candra798&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=candra798&layout=compact&theme=radical)-->
 
 <!-- ![Bagas Candra](img/github-header-image.png) -->
 <!--
